@@ -1,6 +1,9 @@
 # K4World Minecraft сборка
 
-<!---![GitHub Release](https://img.shields.io/github/v/release/devmoded/K4World-Modpack)--->
+<p align=center>
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/devmoded/K4World-Modpack?style=flat-square" height=25px>
+
+</p>
 
 Привет! Это сборка Minecraft в которой есть все нужные моды и настройки, чтобы играть комфортно.  
 
@@ -9,9 +12,9 @@
 ## О сборке
 
 <p align=center>
-    <img alt="Minecraft version" src="https://img.shields.io/badge/Minecraft:-1.20.1-blue?style=flat-square">
-    <img alt="Fabric loader version" src="https://img.shields.io/badge/Fabric:-0.16.13-blue?style=flat-square">
-    <img alt="Launcher" src="https://img.shields.io/badge/Лаунчер:-TLauncher%20(рекомендуется)-blue?style=flat-square">
+    <img alt="Minecraft version" src="https://img.shields.io/badge/Minecraft:-1.20.1-blue?style=flat-square" height=25px>
+    <img alt="Fabric loader version" src="https://img.shields.io/badge/Fabric:-0.16.13-blue?style=flat-square" height=25px>
+    <img alt="Launcher" src="https://img.shields.io/badge/Лаунчер:-TLauncher%20(рекомендуется)-blue?style=flat-square" height=25px>
 </p>
 
 В сборку включены моды для улучшения производительности, отображения скинов, ресурспаки и настройки  
@@ -21,7 +24,7 @@
 ## Установка
 
 1. Сначала **создай пустую сборку** в TLauncher (или другом лаунчере) с версией Minecraft 1.20.1 и Fabric 0.16.13.  
-2. Скачай и распакуй архив этой сборки в удобную папку на компьютере [по ссылке]() (нажать на текст).  
+2. Скачай и распакуй архив этой сборки в удобную папку на компьютере [по ссылке](https://github.com/devmoded/K4World-Modpack/archive/refs/tags/v1.0.0.zip) (нажать на текст).  
 3. Запусти скрипт `setup_pack.py` из папки со сборкой.  
 4. Следуй инструкциям в скрипте: выбери лаунчер, укажи путь до папки твоей сборки.  
 5. Скрипт скопирует все нужные файлы и моды в твою сборку.  
