@@ -12,6 +12,7 @@
 ## О сборке
 
 <p align=center>
+    <img alt="Launcher" src="https://img.shields.io/badge/Python:-3.12+-blue?style=flat-square" height=25px>
     <img alt="Minecraft version" src="https://img.shields.io/badge/Minecraft:-1.20.1-blue?style=flat-square" height=25px>
     <img alt="Fabric loader version" src="https://img.shields.io/badge/Fabric:-0.16.13-blue?style=flat-square" height=25px>
     <img alt="Launcher" src="https://img.shields.io/badge/Лаунчер:-TLauncher%20(рекомендуется)-blue?style=flat-square" height=25px>
